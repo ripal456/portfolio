@@ -1675,3 +1675,13 @@ nav {
     font-size: 11px;
   }
 }
+.topic {
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffffff;
+}
+#topic-description {
+  font-size: 14px;
+  color: #fff;
+  display: inline;
+}
